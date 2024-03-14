@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ashutosh Pandey
 - 👀 I’m interested in book, podcast, coding
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python game project
+- 💞️ looking to collaborate on python project
 - 📫 Reach me on GitHub
 
 <!---
