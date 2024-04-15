@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ashutosh Pandey
-- 👀 I’m interested in book, podcast, coding
+- 👀 I’m interested in book, podcast, programing 
 - 🌱 I’m currently learning python
 - 💞️ looking to collaborate on python project
 - 📫 Reach me on GitHub
