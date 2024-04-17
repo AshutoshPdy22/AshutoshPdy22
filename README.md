@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ashutosh Pandey
 - 👀 I’m interested in book, podcast, programing 
-- 🌱 I’m currently learning python
+- 🌱 I know PYTHON,SQL,MARKDOWN
 - 💞️ looking to collaborate on python project
 - 📫 Reach me on GitHub
 
