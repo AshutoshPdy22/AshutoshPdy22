@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ashutosh Pandey
 - 👀 I’m interested in book, podcast, programing
-- ✨ I'm polymath Programmer, Artist, Editer 
+- ✨ I'm polymath- Programmer, Artist, Editer 
 - 🌱 I know PYTHON, SQL, MARKDOWN
 - 💞️ looking to collaborate on python project
 - 📫 Reach me on GitHub
